@@ -1,0 +1,64 @@
+@media (min-width: 768px){
+    .md\:container{
+        max-width: 768px;
+    }
+    @media (min-width: 648px){
+        .md\:container{
+            max-width: 648px;
+        }
+    }
+    @media (min-width: 768px){
+        .md\:container{
+            max-width: 768px;
+        }
+    }
+    @media (min-width: 820px){
+        .md\:container{
+            max-width: 820px;
+        }
+    }
+    @media (min-width: 964px){
+        .md\:container{
+            max-width: 964px;
+        }
+    }
+    @media (min-width: 1240px){
+        .md\:container{
+            max-width: 1240px;
+        }
+    }
+    
+    .md\:ml-5{
+        margin-left: 3rem !important;
+    }
+    
+}
+
+.fw-500{
+    font-weight: 500;
+}
+
+.fw-600{
+    font-weight: 600;
+}
+
+.fw-700{
+    font-weight: 700;
+}
+
+.ta-1{
+    text-align: left;
+}
+
+.ta-2{
+    text-align: center;    
+}
+
+.ta-3{
+    text-align: end;
+}
+
+.foot{
+    padding: 15px; 
+    background-color: rgb(25, 6, 39);
+}
